@@ -1,0 +1,53 @@
+Start testing: Sep 21 15:13 MSK
+----------------------------------------------------------
+1/1 Testing: MyTests
+1/1 Test: MyTests
+Command: "/mnt/c/Users/mashu/OneDrive/Документы/маи/3 сем/ООП/OOP/laba1/build/MyTests"
+Directory: /mnt/c/Users/mashu/OneDrive/Документы/маи/3 сем/ООП/OOP/laba1/build
+"MyTests" start time: Sep 21 15:13 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 6 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from test01
+[ RUN      ] test01.basic_test_set
+[       OK ] test01.basic_test_set (0 ms)
+[----------] 1 test from test01 (0 ms total)
+
+[----------] 1 test from test02
+[ RUN      ] test02.basic_test_set
+[       OK ] test02.basic_test_set (0 ms)
+[----------] 1 test from test02 (0 ms total)
+
+[----------] 1 test from test03
+[ RUN      ] test03.basic_test_set
+[       OK ] test03.basic_test_set (0 ms)
+[----------] 1 test from test03 (0 ms total)
+
+[----------] 1 test from test04
+[ RUN      ] test04.basic_test_set
+[       OK ] test04.basic_test_set (0 ms)
+[----------] 1 test from test04 (0 ms total)
+
+[----------] 1 test from test05
+[ RUN      ] test05.basic_test_set
+[       OK ] test05.basic_test_set (0 ms)
+[----------] 1 test from test05 (0 ms total)
+
+[----------] 1 test from test06
+[ RUN      ] test06.basic_test_set
+[       OK ] test06.basic_test_set (0 ms)
+[----------] 1 test from test06 (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 6 test suites ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"MyTests" end time: Sep 21 15:13 MSK
+"MyTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 21 15:13 MSK
